@@ -11,4 +11,8 @@ A collection of designs (3D print, laser, vinyl, CNC, ShopBot, and more) used to
 * Raccoon t-shirt made with vinyl cutter and heat press
 * Bubble wand with MakerBot 3D printer
 * Boomerang with injection molder
+* Cardboard/lens camera obscura with table saw, laser cutter
+* "Scott's Tot's" and "Calvin&Hobbes" t-shirts with silk screenprinting and vinyl stencils
+* Budget beer pong table with ShopBot CNC, dremel
+* "Music Band" t-shirt with silkscreen and vinyl stencil
 * 
